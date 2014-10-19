@@ -1,0 +1,4 @@
+emlak
+=====
+
+emlak
